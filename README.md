@@ -23,5 +23,4 @@
   https://github.com/mukesh0733/images/commit/a599a29dce409defd3f0a05759477f29955bd463#commitcomment-46538305
   
   -	Console output of the tool:
-  https://github.com/mukesh0733/images/commit/a599a29dce409defd3f0a05759477f29955bd463#commitcomment-46538312
-  https://github.com/mukesh0733/images/issues/1#issue-797351077
+ https://github.com/mukesh0733/NVO_LAB2/issues/1#issue-797351594
